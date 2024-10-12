@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @55555Megalodon
-- 👀 I’m interested in Game Development, Sharks, and engineering
+- 👀 I’m interested in Game Development, Sharks, and Engineering
 - 🌱 I’m currently learning how to use Godot
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
